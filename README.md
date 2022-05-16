@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [JobTracker](https://github.com/Mr-Georgie/job-tracker)
 
-- 📝 I regularly write articles on [https://dev.to/georgeisiguzo](https://dev.to/georgeisiguzo)
+- 📝 I regularly write articles on [https://dev.to/georgeisiguzo](https://dev.to/georgeisiguzo) & [https://footprints.hashnode.dev](https://footprints.hashnode.dev)
 
 - 💬 Ask me about **react and tailwind css**
 
