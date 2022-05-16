@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **george.isiguzo@yahoo.com**
 
-- ⚡ Fun fact **I almost 6 feet 😁**
+- ⚡ Fun fact **I almost 6 feet tall 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
