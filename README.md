@@ -5,19 +5,30 @@
 
 <p align="left"> <a href="https://twitter.com/georgeisiguzo" target="blank"><img src="https://img.shields.io/twitter/follow/georgeisiguzo?logo=twitter&style=for-the-badge" alt="georgeisiguzo" /></a> </p>
 
-- 🔭 I’m currently working on [DevSpace Forum](https://github.com/Mr-Georgie/Dev-Space-Forum)
+## Proudest Project
+#### Typathon
+<img src="https://user-images.githubusercontent.com/28518667/178255670-6bd264f8-0b85-4489-904e-e36a546457b0.gif" width="600" />
+Link to code: https://github.com/Mr-Georgie/typathon
 
-- 🌱 I’m currently learning **React Native**
+#### Movie Library
+<img src="https://user-images.githubusercontent.com/28518667/176549224-c49fba4c-6607-4bdd-b7e9-3b15b20fb1f2.gif" width="600" />
+Link to repo: https://github.com/Mr-Georgie/movie-library
 
-- 👯 I’m looking to collaborate on [RentMe](https://github.com/Mr-Georgie/RentMe)
+## Highlights
 
-- 🤝 I’m looking for help with [JobTracker](https://github.com/Mr-Georgie/job-tracker)
+- 🔭 I’m currently working on [Typathon](https://github.com/Mr-Georgie/typathon)
 
-- 📝 I regularly write articles on [https://dev.to/georgeisiguzo](https://dev.to/georgeisiguzo) & [https://footprints.hashnode.dev](https://footprints.hashnode.dev)
+- 🌱 I’m currently building web apps with ReadtJS and TailwindCSS
 
-- 💬 Ask me about **react and tailwind css**
+- 👯 I’m looking to collaborate on [IdeasForGeeks](https://github.com/Mr-Georgie/ideas)
+
+- 🤝 I’m open to frontend developer jobs (ReactJS)
+
+- 📝 I regularly write articles on [TheReactNewbie](https://thereactnewbie.xyz/), [https://dev.to/georgeisiguzo](https://dev.to/georgeisiguzo) & [https://footprints.hashnode.dev](https://footprints.hashnode.dev)
 
 - 📫 How to reach me **george.isiguzo@yahoo.com**
+
+- 💬 Ask me about **react and tailwind css**
 
 - ⚡ Fun fact **I almost 6 feet tall 😁**
 
