@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Isiguzo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">and I build UIs with ReactJS, TailwindCSS and Canva!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-georgie&label=Profile%20views&color=0e75b6&style=flat" alt="mr-georgie" /> </p>
 
@@ -8,11 +8,15 @@
 ## Proudest Project
 #### Typathon
 <img src="https://user-images.githubusercontent.com/28518667/178255670-6bd264f8-0b85-4489-904e-e36a546457b0.gif" width="600" />
-Link to code: https://github.com/Mr-Georgie/typathon
+Link to repo: https://github.com/Mr-Georgie/typathon
 
 #### Movie Library
 <img src="https://user-images.githubusercontent.com/28518667/176549224-c49fba4c-6607-4bdd-b7e9-3b15b20fb1f2.gif" width="600" />
 Link to repo: https://github.com/Mr-Georgie/movie-library
+
+#### Ideas For Geeks
+<img src="https://user-images.githubusercontent.com/28518667/178259193-019794a4-e0a8-4678-9e61-dc16e014ad0b.gif" width="600" />
+Link to repo: [https://github.com/Mr-Georgie/movie-library](https://github.com/Mr-Georgie/ideas)
 
 ## Highlights
 
