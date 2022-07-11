@@ -16,7 +16,7 @@ Link to repo: https://github.com/Mr-Georgie/movie-library
 
 #### Ideas For Geeks
 <img src="https://user-images.githubusercontent.com/28518667/178259193-019794a4-e0a8-4678-9e61-dc16e014ad0b.gif" width="600" />
-Link to repo: [https://github.com/Mr-Georgie/movie-library](https://github.com/Mr-Georgie/ideas)
+Link to repo: https://github.com/Mr-Georgie/ideas
 
 ## Highlights
 
