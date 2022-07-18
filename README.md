@@ -20,6 +20,8 @@ Link to repo: https://github.com/Mr-Georgie/ideas
 
 ## Highlights
 
+- 📌 I'm based in Lagos, Nigeria
+
 - 🔭 I’m currently working on [Typathon](https://github.com/Mr-Georgie/typathon)
 
 - 🌱 I’m currently building web apps with ReadtJS and TailwindCSS
