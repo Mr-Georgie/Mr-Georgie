@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Isiguzo</h1>
 <h3 align="center">Software Developer Based in Lagos, Nigeria</h3>
-<h3 align="center">Currently focused on Backend Development and it's associated technologies (Java, Spring Framework), I still dabble in crafting UIs using ReactJS in my free time</h3>
+<h5 align="center">Currently focused on Java, Backend Development and its associated technologies (Spring Framework), I still dabble in crafting UIs using ReactJS in my free time</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-georgie&label=Profile%20views&color=0e75b6&style=flat" alt="mr-georgie" /> </p>
 
