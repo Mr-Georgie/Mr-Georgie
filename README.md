@@ -6,21 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/georgeisiguzo" target="blank"><img src="https://img.shields.io/twitter/follow/georgeisiguzo?logo=twitter&style=for-the-badge" alt="georgeisiguzo" /></a> </p>
 
-## Highlights
+## Portfolio
 
-- 🔭 I’m currently working at Flutterwave Technology Solutions Limited
-
-- 🌱 I’m currently building enterprise-level RESTful Microservices
-
-- 👯 I’m looking to collaborate on any idea that would challenge me.
-
-- 📝 I write articles on [TheReactNewbie](https://thereactnewbie.xyz/), [https://dev.to/georgeisiguzo](https://dev.to/georgeisiguzo) & [https://footprints.hashnode.dev](https://footprints.hashnode.dev)
-
-- 📫 How to reach me **george.isiguzo@yahoo.com**
-
-- 💬 Ask me about **Java, Springboot, React, JavaScript, Process flows & Design**
-
-- ⚡ Fun fact **I almost 6 feet tall 😁**
+- 🌐 [Georgeisiguzo.com](https://www.georgeisiguzo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
