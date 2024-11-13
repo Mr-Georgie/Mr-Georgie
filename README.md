@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Isiguzo</h1>
 <h3 align="center">Software Developer Based in Lagos, Nigeria</h3>
-<h5 align="center">Java, JavaScript & Python</h5>
-<h5 align="center">ReactJS, NodeJS, SpringBoot & Django</h5>
+<h5 align="center">TypeScript, Go, Java</h5>
+<h5 align="center">NestJS, Golang, SpringBoot</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-georgie&label=Profile%20views&color=0e75b6&style=flat" alt="mr-georgie" /> </p>
 
